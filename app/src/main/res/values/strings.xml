@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoActivities</string>
+    <string name="tvAge">Age</string>
+    <string name="tvName">Name</string>
+    <string name="etName">Name</string>
+    <string name="etAge">Age</string>
+    <string name="btn">Done</string>
+</resources>
